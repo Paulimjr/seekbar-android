@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeekBar</string>
+    <string name="demo_min_label"></string>
+    <string name="demo_max_label"></string>
+</resources>
